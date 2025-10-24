@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: navy;
+}
+
+p {
+  color: black;
+  font-size: 18px;
+}
+
+img {
+  border-radius: 10px;
+}
